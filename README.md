@@ -50,6 +50,10 @@ Russia is one of my favorite country of European, so I decide to learn Russian b
 
 ##### Letters
 
+There are 33 letters in Russian rather than 26 letters, they are:
+
+`Аа Бб Вв Гг Дд Ее Ёё Жж Зз Ии Йй Кк Лл Мм Нн Оо Пп Рр Сс Тт Уу Фф Хх Цц Чч Шш Щщ Ъъ Ыы Ьь Ээ Юю Яя`
+
 ##### Grammer
 
 
