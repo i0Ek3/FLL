@@ -54,6 +54,8 @@ There are 33 letters in Russian rather than 26 letters, they are:
 
 `Аа Бб Вв Гг Дд Ее Ёё Жж Зз Ии Йй Кк Лл Мм Нн Оо Пп Рр Сс Тт Уу Фф Хх Цц Чч Шш Щщ Ъъ Ыы Ьь Ээ Юю Яя`
 
+On other hand, you should know how to read these letters as correct pronunciation or write them as right way, hold on, I will upload some pictures about how to write them as right way later days. 
+
 ##### Grammer
 
 
