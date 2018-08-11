@@ -58,6 +58,10 @@ On the other hand, you should know how to read these letters as correct pronunci
 
 As for pronunciation video, please find it on the youtube or Google Store...
 
+Here is an alphbet picture write by myself, and also there is a standard one in /image/russian.
+
+![hand.jpg](https://github.com/i0Ek3/ELL/blob/master/images/russian/hand.jpg)
+
 ##### Grammer
 
 
