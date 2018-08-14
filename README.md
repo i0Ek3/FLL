@@ -62,6 +62,12 @@ Here is an alphbet picture write by myself, and also there is a standard one in 
 
 ![hand.jpg](https://github.com/i0Ek3/ELL/blob/master/images/russian/hand.jpg)
 
+Additionally, you need to spelling these alphbets frequently like this(of course, these combinations do not necessarily exist, check it by yourself):
+
+![spelling.jpg](https://github.com/i0Ek3/ELL/blob/master/images/russian/spelling.jpg)
+
+As well as you should write these alphbets' handwritting expertly, take some days to practice it, be patient, believe me.
+
 ##### Grammer
 
 
