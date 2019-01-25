@@ -1,8 +1,9 @@
-# ELL--European Languages Learning
+# FLL -- Foreign Language Learning
 
-As I said that, languages study shouldn't have limits, interested is your best teacher. So, just do it if you want it.
+As I said that, languages' study shouldn't have any limits, interesting is your best teacher. So, just do it if you like it.
 
-Additionaly, this project is also to share my learning experience, pure self-study, and also record the learning process(Yes. I always have much time to do something without coding or informals >_<!!!).
+Additionaly, this project is also to share my learning experience, pure self-study, and also record the learning process
+
 
 
 
@@ -13,13 +14,13 @@ Additionaly, this project is also to share my learning experience, pure self-stu
 
 * [Learning Skills](#learnig-skills)
 * [Languages](#Languages)
+    * [Mongolian](#Mongolian)
     * [Russian](#Russian)
         * [Letters](#Letters)
         * [Grammer](#Grammer)
     * [Esperanto](#Esperanto)
     * [French](#French)
     * [Spanish](#Spanish)
-    * [](#)
     * [](#)
 * [Credit](#Credit)
 
@@ -32,7 +33,7 @@ Additionaly, this project is also to share my learning experience, pure self-stu
 - Letters is your second important thing of learning a new language, learn it as your own way.
 
 - Then, a little words good for need, believe me.
-
+``
 - Next, you should fuck grammer, yeah, fuck it.
 
 - Last, speak it, listen it, watch it and over again.
@@ -70,6 +71,12 @@ As well as you should write these alphbets' handwritting expertly, take some day
 
 
 ##### Grammer
+
+
+### Mongolian
+
+> 学习蒙语的目的一方面在于兴趣，另一方面在于我自己是内蒙古人，却不会说写蒙语，实在是觉着有些不妥，所以有了这部分内容，后续也许会考虑做一个学习蒙语的小程序，Let we do it~
+
 
 
 
