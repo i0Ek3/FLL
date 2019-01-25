@@ -77,7 +77,9 @@ As well as you should write these alphbets' handwritting expertly, take some day
 
 > 学习蒙语的目的一方面在于兴趣，另一方面在于我自己是内蒙古人，却不会说写蒙语，实在是觉着有些不妥，所以有了这部分内容，后续也许会考虑做一个学习蒙语的小程序，Let we do it~
 
+蒙语字母分阴性，阳性和中性。具体可以参考[这里](https://www.youtube.com/watch?v=odv5DN_eMAg)先学习字母的书写和读音，一定要多练。学起来感觉不会太难，和俄语中的有些字母发音很像，所以你有俄语基础的话，那么就很简单了。但书写的确需要下功夫学习练习，但书写的确需要下功夫学习练习。
 
+读写的情况可具体练习音节拼读，类似于俄语中的拼读，练习多多益善。这里推荐一个学习平台[http://www.howzhi.com/course/5150/](http://www.howzhi.com/course/5150/)，感觉质量还不错，可以关注学习。
 
 
 ### Esperanto
