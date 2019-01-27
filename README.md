@@ -15,12 +15,13 @@ Additionaly, this project is also to share my learning experience, pure self-stu
 * [Learning Skills](#learnig-skills)
 * [Languages](#Languages)
     * [Mongolian](#Mongolian)
+    * [Sanskrit](#Sanskrit) 暂无说明，稍后补充。
     * [Russian](#Russian)
         * [Letters](#Letters)
         * [Grammer](#Grammer)
-    * [Esperanto](#Esperanto)
-    * [French](#French)
-    * [Spanish](#Spanish)
+    * [Esperanto](#Esperanto) 暂无说明。
+    * [French](#French) 暂无说明。
+    * [Spanish](#Spanish) 暂无说明。
     * [](#)
 * [Credit](#Credit)
 
@@ -81,6 +82,7 @@ As well as you should write these alphbets' handwritting expertly, take some day
 
 读写的情况可具体练习音节拼读，类似于俄语中的拼读，练习多多益善。这里推荐一个学习平台[http://www.howzhi.com/course/5150/](http://www.howzhi.com/course/5150/)，感觉质量还不错，可以关注学习。
 
+B站有个系列视频不错，大家可以参考学习。地址[https://www.bilibili.com/video/av6696210/?p=1](https://www.bilibili.com/video/av6696210/?p=1)
 
 ### Esperanto
 
