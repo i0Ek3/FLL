@@ -2,44 +2,53 @@
 
 As I said that, languages' study shouldn't have any limits, interesting is your best teacher. So, just do it if you like it.
 
-Additionaly, this project is also to share my learning experience, pure self-study, and also record the learning process
-
-
+Additionaly, this project is also to share my learning experience, pure self-study, and also record the learning process.
 
 
 ## Contents
 
 <details>
-<summary>Languages</summary>
+<b><summary>Content</summary></b>
 
+* [Learning Status](#learning-status)
 * [Learning Skills](#learnig-skills)
 * [Languages](#Languages)
     * [Mongolian](#Mongolian)
-    * [Sanskrit](#Sanskrit) 暂无说明，稍后补充。
-    * [Russian](#Russian)
+    * [Sanskrit](#Sanskrit) 梵语。
+    * [Russian](#Russian) 
         * [Letters](#Letters)
         * [Grammer](#Grammer)
-    * [Esperanto](#Esperanto) 暂无说明。
-    * [French](#French) 暂无说明。
-    * [Spanish](#Spanish) 暂无说明。
-    * [](#)
+    * [Esperanto](#Esperanto) 世界语。
+    * [French](#French) 
+    * [Spanish](#Spanish) 
+    * [Hebrew](#) 希伯来语。
 * [Credit](#Credit)
 
 </details>
 
+
+## Learning Status
+
+| Order | Language | Status |
+|-------|----------|--------|
+|0|English|better than all, basic communication|
+|1|French|a little word, basic greeting|
+|2|Esperanto|worse than French|
+|3|Russian|better than French, a little communication|
+|4|Mongolian|bad than French|
+|5|Sanskrit|bad than Mongolian|
+|6|Hebrew|same with Mojolian|
+|7|Spanish|worse than English, a little communication, basic spelling, greeting and speaking|
+
+
 ## Learning Skills
 
-- First, you should have interested on it what you want to learn, to know it and assimilate into it.
-
-- Letters is your second important thing of learning a new language, learn it as your own way.
-
-- Then, a little words good for need, believe me.
-``
-- Next, you should fuck grammer, yeah, fuck it.
-
-- Last, speak it, listen it, watch it and over again.
-
-In a word, it's need long time to go, maybe you can learnt it with a one month or less more. But, most people need to learn it much more time, insist it you can see a miracle.
+- First, you should have intrest and motivation on that language.
+- Second, letters is important, read, write and spell them.
+- Third, learn some common words for daily use, speak it loudly.
+- Next, speak, listen, watch and over again, this is accumalation.
+- Last, if you would, fuck grammer, yeah, fuck it.
+- Finally, in action!
 
 
 ## Languages
@@ -71,12 +80,8 @@ Additionally, you need to spelling these alphbets frequently like this(of course
 As well as you should write these alphbets' handwritting expertly, take some days to practice it, be patient, believe me.
 
 
-##### Grammer
-
 
 ### Mongolian
-
-> 学习蒙语的目的一方面在于兴趣，另一方面在于我自己是内蒙古人，却不会说写蒙语，实在是觉着有些不妥，所以有了这部分内容，后续也许会考虑做一个学习蒙语的小程序，Let we do it~
 
 蒙语字母分阴性，阳性和中性。具体可以参考[这里](https://www.youtube.com/watch?v=odv5DN_eMAg)先学习字母的书写和读音，一定要多练。学起来感觉不会太难，和俄语中的有些字母发音很像，所以你有俄语基础的话，那么就很简单了。但书写的确需要下功夫学习练习，但书写的确需要下功夫学习练习。
 
@@ -84,8 +89,7 @@ As well as you should write these alphbets' handwritting expertly, take some day
 
 B站有个系列视频不错，大家可以参考学习。地址[https://www.bilibili.com/video/av6696210/?p=1](https://www.bilibili.com/video/av6696210/?p=1)
 
-### Esperanto
-
+ps: Update in free time, have fun~
 
 ## Credit
 
