@@ -1,4 +1,6 @@
-# FLL -- Foreign Language Learning
+# FLL
+
+> Foreign Language Learning
 
 As I said that, languages' study shouldn't have any limits, interesting is your best teacher. So, just do it if you like it.
 
@@ -11,14 +13,16 @@ Additionaly, this project is also to share my learning experience, pure self-stu
 * [Learning Skills](#learnig-skills)
 * [Languages](#Languages)
     * [Mongolian](#Mongolian)
-    * [Sanskrit](#Sanskrit) 梵语。
+    * [Sanskrit](#Sanskrit)
     * [Russian](#Russian) 
         * [Letters](#Letters)
         * [Grammer](#Grammer)
-    * [Esperanto](#Esperanto) 世界语。
+    * [Esperanto](#Esperanto)
     * [French](#French) 
     * [Spanish](#Spanish) 
-    * [Hebrew](#) 希伯来语。
+    * [Hebrew](#Hebrew)
+    * [Japanese](#Japanese)
+    * [Dutch](#Dutch)
 * [Credit](#Credit)
 
 
@@ -32,8 +36,11 @@ Additionaly, this project is also to share my learning experience, pure self-stu
 |3|Russian|better than French, a little communication|
 |4|Mongolian|worse than French|
 |5|Sanskrit|worse than Mongolian|
-|6|Hebrew|same with Mojolian|
+|6|Hebrew|same with Mongolian|
 |7|Spanish|worse than English, a little communication, basic spelling, greeting and speaking|
+|8|Japanese|nothing|
+|9|Dutch|WIP|
+
 
 
 ## Learning Skills
@@ -85,6 +92,14 @@ A platform for learning Mongolian: [http://www.howzhi.com/course/5150/](http://w
 Vedio on Bilibili: [https://www.bilibili.com/video/av6696210/?p=1](https://www.bilibili.com/video/av6696210/?p=1).
 
 More practice for read, speak and listen.
+
+
+### Japanese
+
+- [Japanese Grammar Guide](https://res.wokanxing.info/jpgramma/)
+
+
+
 
 
 ps: Update in free time, have fun~
