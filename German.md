@@ -4,11 +4,44 @@
 
 There are 30 letters in German:
 
-`Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz ä ö ü ß`
+`   Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz ä ö ü ß   ` 
 
 ## Pronuncation
 
-Please follows the link [https://www.youtube.com/watch?v=wpBPaDI5IgI](https://www.youtube.com/watch?v=wpBPaDI5IgI) to learn German alphabet and phonetics.
+| Alphabet | Pronunciation        | Pronunciation Like | Words(German) | Words(English) | Notes                                 |
+| -------- | -------------------- | ------------------ | ------------- | -------------- | ------------------------------------- |
+| Aa       | ah                   | far, astronaut     | Apfel         | apple          |                                       |
+| Bb       | beh                  | banana             | Banane        | banana         |                                       |
+| Cc       | tseh                 | ice                | Chor          | chor           |                                       |
+| Dd       | deh                  | doll               | Deutschland   | German         |                                       |
+| Ee       | eh                   | ten                | Elefant       | elephant       |                                       |
+| Ff       | eff                  | fish               | Fisch         | fish           |                                       |
+| Gg       | geh                  | go                 | Giraffe       | giraffe        |                                       |
+| Hh       | haa                  | house              | Haus          | house          |                                       |
+| Ii       | ee                   | it, easy           | Igel          | hedgehog       |                                       |
+| Jj       | yot                  | yogurt             | Joghurt       | yogurt         |                                       |
+| Kk       | kah                  | king               | Kino          | theater        |                                       |
+| Ll       | el                   | love               | Liebe         | love           |                                       |
+| Mm       | em                   | man                | Mann          | man            |                                       |
+| Nn       | en                   | night              | Nacht         | night          |                                       |
+| Oo       | oh                   | orange             | Orange        | orange         |                                       |
+| Pp       | peh                  | party              | Party         | party          |                                       |
+| Qq       | kuh                  | quiz               | Quiz          | quiz           |                                       |
+| Rr       | err                  | -                  | Rot           | rat            | like Spanish's r                      |
+| Ss       | es                   | sun                | Sonne         | sun            |                                       |
+| Tt       | teh                  | tea                | Tee           | tea            |                                       |
+| Uu       | uh                   | you                | Uhr           | clock          |                                       |
+| Vv       | fow                  | for                | Vogel         | bird           |                                       |
+| Ww       | veh                  | van                | Wasser        | water          |                                       |
+| Xx       | iks                  | xylophone          | Xylophon      | xylophone      |                                       |
+| Yy       | ypsilon              | yoga               | Yoga          | yoga           |                                       |
+| Zz       | tset                 | bits               | Zoo           | zoo            |                                       |
+| ä        | eeh, A-Umlaut        | melon, age         |               |                |                                       |
+| ö        | oeh, O-Umlaut        | flirt, girl        |               |                |                                       |
+| ü        | ueh, U-Umlaut        | -                  |               |                |                                       |
+| ß        | ess-tset, scharfes S | kiss               |               |                | cannot use at the beginning of a word |
+
+If you want to know more details, please check [this link](https://www.youtube.com/watch?v=wpBPaDI5IgI).
 
 ## Diphthongs & Consonants
 
@@ -64,8 +97,9 @@ Please follows the link [https://www.youtube.com/watch?v=wpBPaDI5IgI](https://ww
 
 ### Numbers
 
-| Null                        | 0                      |
+| German                      | English                |
 | --------------------------- | ---------------------- |
+| Null                        | 0                      |
 | Eins                        | 1                      |
 | Zwei                        | 2                      |
 | Drei                        | 3                      |
