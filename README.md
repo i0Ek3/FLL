@@ -15,8 +15,8 @@ In addition, the project is also used to share my self-study experience and reco
     * [Mongolian](https://github.com/i0Ek3/FLL/blob/master/Mongolian.md)
     * Sanskrit
     * [Russian](https://github.com/i0Ek3/FLL/blob/master/Russian.md) 
-        * [Letters](#Letters)
-        * [Grammer](#Grammer)
+        * Letters
+        * Grammer
     * Esperanto
     * French
     * Spanish

@@ -62,7 +62,7 @@ Please follows the link [https://www.youtube.com/watch?v=wpBPaDI5IgI](https://ww
 | ein  | a       | ein Mann  |
 | eine | an      | eine Frau |
 
-### Number
+### Numbers
 
 | Null                        | 0                      |
 | --------------------------- | ---------------------- |
@@ -108,6 +108,43 @@ Please follows the link [https://www.youtube.com/watch?v=wpBPaDI5IgI](https://ww
 | Entschuldigung Sie bitte?                     | Excuse me, please         |
 | Wir bitte?                                    | Excuse me?                |
 | Sprechen Sie Englisch?(Sprichst du Englisch?) | Do you speak English?     |
+
+ ### Introduction
+
+- heißen
+
+|               | heißen(German) sg./pl. | to be called(English) sg./pl. |
+| ------------- | ---------------------- | ----------------------------- |
+| First Person  | ich heiße              | I am called                   |
+|               | wir heißen             | we are called                 |
+| Second Person | du heißt               | you are called                |
+|               | ihr heißt              | you are called                |
+| Third Person  | er/sie/es heißt        | he/she/it is called           |
+|               | si heißen              | they called                   |
+
+- sein
+
+|               | sein(German) sg./pl. | to be(English) sg./pl. |
+| ------------- | -------------------- | ---------------------- |
+| First Person  | ich bin              | I am                   |
+|               | wir sind             | we are                 |
+| Second Person | du bist              | you are                |
+|               | ihr seid             | you are                |
+| Third Person  | er/sie/es ist        | he/she/it is           |
+|               | sie sind             | they are               |
+
+- introduction
+
+| English                   | German                                                     |
+| ------------------------- | ---------------------------------------------------------- |
+| Hello, my name is ...     | Hallo, mein Name ist ...                                   |
+|                           | Guten Tag, ich bin ...                                     |
+|                           | Guten Tag, ich heiße ...                                   |
+| What's your name?         | Wie heißen Sie?                                            |
+|                           | Wie heißt du?                                              |
+| Nice to meet you.         | Es freut mich Sie kennezulernen/Schön dich kennenzulernen. |
+| The pleasure is all mine. | Ganz meinerseits.                                          |
+| Likewise/Same here.       | Gleichfalls.                                               |
 
 
 
