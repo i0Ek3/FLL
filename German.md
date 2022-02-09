@@ -57,11 +57,59 @@ Please follows the link [https://www.youtube.com/watch?v=wpBPaDI5IgI](https://ww
 
 ## a or an
 
-ein/eine means a or an.
+|      | English | Example   |
+| ---- | ------- | --------- |
+| ein  | a       | ein Mann  |
+| eine | an      | eine Frau |
 
-ein Mann(a man).
+### Number
 
-eine Frau(a woman).
+| Null                        | 0                      |
+| --------------------------- | ---------------------- |
+| Eins                        | 1                      |
+| Zwei                        | 2                      |
+| Drei                        | 3                      |
+| Vier                        | 4                      |
+| Fünf                        | 5                      |
+| Sechs                       | 6                      |
+| Sieben                      | 7                      |
+| Acht                        | 8                      |
+| Neun                        | 9                      |
+| Zehn                        | 10                     |
+| Elf                         | 11                     |
+| Zwölf                       | 12                     |
+| Dreizehn-Neunzehn(Siebzehn) | 13-19(17)              |
+| Zwanzig                     | 20                     |
+| Dreißig                     | 30                     |
+| Vierzig-Neunzig(Siebzig)    | 40, 50, 60, 80, 90(70) |
+| Hundert                     | 100                    |
+| Zweihundert                 | 200                    |
+| Tausend                     | 1000                   |
+| Eintausendfünfhundert       | 1500(1\*1000+5\*100)   |
+| Zehntausend                 | 10000(10\*1000)        |
+
+### Greetings
+
+| German                                        | English                   |
+| --------------------------------------------- | ------------------------- |
+| Guten Morgen                                  | Good morning              |
+| Guten Tag                                     | Hello/Good day            |
+| Guten Abend                                   | Good evening              |
+| Gute Nacht                                    | Good night                |
+| Auf Wiedersehen/Tschüss                       | Good bye                  |
+| Bis später                                    | See you later             |
+| Bis bald                                      | See you soon              |
+| Bis Morgen                                    | See you tomorrow          |
+| Danke(schön/sehr), Vielen Dank                | Thank you, Thanks a lot   |
+| Bitte schön                                   | You're welcome            |
+| Bitte                                         | Please                    |
+| Es tut mir leid                               | I'm sorry                 |
+| Entschuldigung                                | Excuse me(begging pardon) |
+| Entschuldigung Sie bitte?                     | Excuse me, please         |
+| Wir bitte?                                    | Excuse me?                |
+| Sprechen Sie Englisch?(Sprichst du Englisch?) | Do you speak English?     |
+
+
 
 ## Credit
 

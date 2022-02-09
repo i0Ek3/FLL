@@ -12,17 +12,18 @@ In addition, the project is also used to share my self-study experience and reco
 * [Learning Status](#learning-status)
 * [Learning Skills](#learnig-skills)
 * [Languages](#Languages)
-    * [Mongolian](#Mongolian)
-    * [Sanskrit](#Sanskrit)
-    * [Russian](#Russian) 
+    * [Mongolian](https://github.com/i0Ek3/FLL/blob/master/Mongolian.md)
+    * Sanskrit
+    * [Russian](https://github.com/i0Ek3/FLL/blob/master/Russian.md) 
         * [Letters](#Letters)
         * [Grammer](#Grammer)
-    * [Esperanto](#Esperanto)
-    * [French](#French) 
-    * [Spanish](#Spanish) 
-    * [Hebrew](#Hebrew)
-    * [Japanese](#Japanese)
-    * [Dutch](#Dutch)
+    * Esperanto
+    * French
+    * Spanish
+    * Hebrew
+    * [Japanese](https://github.com/i0Ek3/FLL/blob/master/Japanese.md)
+    * Dutch
+    * [German](https://github.com/i0Ek3/FLL/blob/master/German.md)
 * [Credit](#Credit)
 
 
@@ -37,7 +38,7 @@ In addition, the project is also used to share my self-study experience and reco
 |4|Mongolian|`-`| Middle |
 |5|Sanskrit|`-`| Hard |
 |6|Hebrew|`-`| Hard |
-|7|Spanish|`+++`| Easy |
+|7|Spanish|`+`| Easy |
 |8|Japanese|`-`| Easy |
 |9|Dutch|`-`| Middle |
 |10|German|`-`| Middle |
