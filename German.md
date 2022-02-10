@@ -27,7 +27,7 @@ There are 30 letters in German:
 | Oo       | oh                   | orange             | Orange        | orange         |                                       |
 | Pp       | peh                  | party              | Party         | party          |                                       |
 | Qq       | kuh                  | quiz               | Quiz          | quiz           |                                       |
-| Rr       | err                  | -                  | Rot           | rat            | like Spanish's r                      |
+| Rr       | err                  | -                  | Rot           | rat            | like r in Spanish                     |
 | Ss       | es                   | sun                | Sonne         | sun            |                                       |
 | Tt       | teh                  | tea                | Tee           | tea            |                                       |
 | Uu       | uh                   | you                | Uhr           | clock          |                                       |
@@ -73,10 +73,10 @@ If you want to know more details, please check [this link](https://www.youtube.c
 
 |               | Singular | Plurals   | Example |
 | ------------- | -------- | --------- | ------- |
-| first person  | ich(I)   | wir(we)   |         |
-| second person | du(you)  | ihr(you)  |         |
+| First person  | ich(I)   | wir(we)   |         |
+| Second person | du(you)  | ihr(you)  |         |
 |               | Sie(you) |           |         |
-| third person  | er(he)   | sie(they) |         |
+| Third person  | er(he)   | sie(they) |         |
 |               | sie(she) |           |         |
 |               | es(it)   |           |         |
 
@@ -149,22 +149,22 @@ If you want to know more details, please check [this link](https://www.youtube.c
 
 |               | heißen(German) sg./pl. | to be called(English) sg./pl. |
 | ------------- | ---------------------- | ----------------------------- |
-| First Person  | ich heiße              | I am called                   |
+| First person  | ich heiße              | I am called                   |
 |               | wir heißen             | we are called                 |
-| Second Person | du heißt               | you are called                |
+| Second person | du heißt               | you are called                |
 |               | ihr heißt              | you are called                |
-| Third Person  | er/sie/es heißt        | he/she/it is called           |
+| Third person  | er/sie/es heißt        | he/she/it is called           |
 |               | si heißen              | they called                   |
 
 - sein
 
 |               | sein(German) sg./pl. | to be(English) sg./pl. |
 | ------------- | -------------------- | ---------------------- |
-| First Person  | ich bin              | I am                   |
+| First person  | ich bin              | I am                   |
 |               | wir sind             | we are                 |
-| Second Person | du bist              | you are                |
+| Second person | du bist              | you are                |
 |               | ihr seid             | you are                |
-| Third Person  | er/sie/es ist        | he/she/it is           |
+| Third person  | er/sie/es ist        | he/she/it is           |
 |               | sie sind             | they are               |
 
 - introduction
@@ -179,6 +179,99 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | Nice to meet you.         | Es freut mich Sie kennezulernen/Schön dich kennenzulernen. |
 | The pleasure is all mine. | Ganz meinerseits.                                          |
 | Likewise/Same here.       | Gleichfalls.                                               |
+
+- how are you? 
+
+| English                    | German                                 |
+| -------------------------- | -------------------------------------- |
+| How are you?               | Wie geht es Ihnen?                     |
+|                            | Wie geht es dir?                       |
+|                            | Wie geht's?                            |
+| I'm fine, thanks, and you? | Mir geht es gut, danke! Und Ihnen/dir? |
+| I'm also fine, thanks!     | Danke, mir geht es auch gut!           |
+| I feel very good.          | Mir geht es sehr gut.                  |
+| I'm ok.                    | Es geht.                               |
+| I don't feel well.         | Mir geht es nicht so gut.              |
+
+|               | German | English |
+| ------------- | ------ | ------- |
+| First person  | mir    | me      |
+| Second person | dir    | you     |
+|               | Ihnen  |         |
+| Third person  | ihm    | him     |
+|               | ihr    | her     |
+|               | ihm    | it      |
+
+|               | German | English |
+| ------------- | ------ | ------- |
+| First person  | uns    | us      |
+| Second person | euch   | you     |
+|               | Ihnen  |         |
+| Third person  | ihnen  | them    |
+
+- answer
+
+| English | German     |
+| ------- | ---------- |
+| yes     | ja         |
+| no      | nein       |
+| maybe   | vielleicht |
+
+Dialog:
+
+Anna: Hallo David! Wie geht's?
+
+David: Hallo Anna, wie geht es sehr gut. Und dir?
+
+Anna: Danke, mir geht es auch gut.
+
+
+
+- where are you from?
+
+| English             | German                     |
+| ------------------- | -------------------------- |
+| Where are you from? | Wo kommen Sie her?         |
+|                     | Wo kommst du her?          |
+| I am from ...       | Ich bin aus...             |
+|                     | Ich kommen aus Deutschland |
+| to come             | kommen                     |
+| to come from        | herkommen                  |
+
+|               | English         | German          |
+| ------------- | --------------- | --------------- |
+| First person  | I come          | ich komme       |
+|               |                 | wir kommen      |
+| Second person | you come        | du kommst       |
+|               |                 | ihr kommt       |
+| Third person  | he/she/it comes | er/sie/es kommt |
+|               |                 | sie kommen      |
+
+- Country
+
+| Country(English) | Land/Die Länder(German) |
+| ---------------- | ----------------------- |
+| USA              | Amerika                 |
+| Canada           | Kanada                  |
+| England          | England                 |
+| France           | Frankreich              |
+| Italy            | Italien                 |
+| Spain            | Spanien                 |
+| Portugal         | Portugal                |
+| Austria          | Österreich              |
+| Switzerland      | Schweiz                 |
+| Netherlands      | Niederlande/Holland     |
+| Sweden           | Schweden                |
+| Finland          | Finnland                |
+| Norway           | Norwegen                |
+| Czech Republik   | Tschechien              |
+| Poland           | Polen                   |
+| Russia           | Russland                |
+| India            | Indien                  |
+| China            | China                   |
+| Japan            | Japan                   |
+| Australia        | Australien              |
+| New Zealand      | Neuseeland              |
 
 
 
