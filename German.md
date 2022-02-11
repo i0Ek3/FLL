@@ -82,18 +82,18 @@ If you want to know more details, please check [this link](https://www.youtube.c
 
  ## the
 
-|      | Singular              | Plurals            |
-| ---- | --------------------- | ------------------ |
-| Der  | der Mann(the man)     | die Männer(men)    |
-| Die  | die Frau(the woman)   | die Frauen(women)  |
-| Das  | das Mädchen(the girl) | die Mädchen(girls) |
+| German | Singular              | Plurals            |
+| ------ | --------------------- | ------------------ |
+| der    | der Mann(the man)     | die Männer(men)    |
+| die    | die Frau(the woman)   | die Frauen(women)  |
+| das    | das Mädchen(the girl) | die Mädchen(girls) |
 
 ## a or an
 
-|      | English | Example   |
-| ---- | ------- | --------- |
-| ein  | a       | ein Mann  |
-| eine | an      | eine Frau |
+| German | English | Example   |
+| ------ | ------- | --------- |
+| ein    | a       | ein Mann  |
+| eine   | an      | eine Frau |
 
 ### Numbers
 
@@ -129,7 +129,7 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | Guten Morgen                                  | Good morning              |
 | Guten Tag                                     | Hello/Good day            |
 | Guten Abend                                   | Good evening              |
-| Gute Nacht                                    | Good night                |
+| Guten Nacht                                   | Good night                |
 | Auf Wiedersehen/Tschüss                       | Good bye                  |
 | Bis später                                    | See you later             |
 | Bis bald                                      | See you soon              |
@@ -180,7 +180,7 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | The pleasure is all mine. | Ganz meinerseits.                                          |
 | Likewise/Same here.       | Gleichfalls.                                               |
 
-- how are you? 
+### How Are You?
 
 | English                    | German                                 |
 | -------------------------- | -------------------------------------- |
@@ -209,7 +209,7 @@ If you want to know more details, please check [this link](https://www.youtube.c
 |               | Ihnen  |         |
 | Third person  | ihnen  | them    |
 
-- answer
+### Answer
 
 | English | German     |
 | ------- | ---------- |
@@ -225,9 +225,7 @@ David: Hallo Anna, wie geht es sehr gut. Und dir?
 
 Anna: Danke, mir geht es auch gut.
 
-
-
-- where are you from?
+### Where Are You From?
 
 | English             | German                     |
 | ------------------- | -------------------------- |
@@ -247,7 +245,7 @@ Anna: Danke, mir geht es auch gut.
 | Third person  | he/she/it comes | er/sie/es kommt |
 |               |                 | sie kommen      |
 
-- Country
+### Country
 
 | Country(English) | Land/Die Länder(German) |
 | ---------------- | ----------------------- |
@@ -272,6 +270,30 @@ Anna: Danke, mir geht es auch gut.
 | Japan            | Japan                   |
 | Australia        | Australien              |
 | New Zealand      | Neuseeland              |
+
+### Transportation
+
+| English               | German                |
+| --------------------- | --------------------- |
+| airport               | Flughafen             |
+| airplane              | Flugzeug              |
+| train station         | Bahnhof               |
+| train                 | Zug                   |
+| bus station           | Busbahnhof            |
+| bus                   | Bus                   |
+| bus stop              | Bushaltestelle        |
+| car                   | Auto                  |
+| car park              | Parkplatz             |
+| bicycle               | Fahrrad               |
+| bicycle rack          | Fahrradständer        |
+| boat                  | Boot                  |
+| pier                  | Anlegesteller         |
+| subway                | U-Bahn                |
+|                       | Untergrundbahn        |
+| skystrain             | S-Bahn                |
+|                       | Stadtschnellbahn      |
+| tram                  | Straßenbahn           |
+| Where is the airport? | Wo ist der Flughafen? |
 
 
 

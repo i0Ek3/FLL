@@ -33,15 +33,15 @@ In addition, the project is also used to share my self-study experience and reco
 |:-----:|:--------:|:-------:|:--------:|
 |0|English|`+++++++`| Easy |
 |1|French|`+`| Easy |
-|2|Esperanto|`+-`| Easy |
-|3|Russian|`++`| Middle |
+|2|Esperanto|`-`| Easy |
+|3|Russian|`+`| Middle |
 |4|Mongolian|`-`| Middle |
 |5|Sanskrit|`-`| Hard |
 |6|Hebrew|`-`| Hard |
 |7|Spanish|`+`| Easy |
 |8|Japanese|`-`| Easy |
 |9|Dutch|`-`| Middle |
-|10|German|`-`| Middle |
+|10|German|`++`| Middle |
 
 
 ## Learning Skills
@@ -51,7 +51,7 @@ In addition, the project is also used to share my self-study experience and reco
 - Third, learn some common words for daily use, speak it loudly.
 - Next, speak, listen, watch and over again, this is accumalation.
 - Last, if you would, fuck grammer, yeah, fuck it.
-- Finally, in action!
+- Finally, in action, use it.
 
 
 ## Languages
@@ -61,4 +61,5 @@ Please check corresponding languages markdown file.
 
 ## Credit
 
-- [https://www.loecsen.com/](https://www.loecsen.com/)
+- [https://www.loecsen.com](https://www.loecsen.com)
+- YouTube
