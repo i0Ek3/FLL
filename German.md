@@ -6,21 +6,21 @@ There are 30 letters in German:
 
 `   Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz ä ö ü ß   ` 
 
-## Pronuncation
+## Pronunciation
 
 | Alphabet | Pronunciation        | Pronunciation Like | Words(German) | Words(English) | Notes                                 |
 | -------- | -------------------- | ------------------ | ------------- | -------------- | ------------------------------------- |
 | Aa       | ah                   | far, astronaut     | Apfel         | apple          |                                       |
 | Bb       | beh                  | banana             | Banane        | banana         |                                       |
 | Cc       | tseh                 | ice                | Chor          | chor           |                                       |
-| Dd       | deh                  | doll               | Deutschland   | German         |                                       |
+| Dd       | deh                  | doll               | Deutschland   | Germany        |                                       |
 | Ee       | eh                   | ten                | Elefant       | elephant       |                                       |
 | Ff       | eff                  | fish               | Fisch         | fish           |                                       |
 | Gg       | geh                  | go                 | Giraffe       | giraffe        |                                       |
 | Hh       | haa                  | house              | Haus          | house          |                                       |
 | Ii       | ee                   | it, easy           | Igel          | hedgehog       |                                       |
 | Jj       | yot                  | yogurt             | Joghurt       | yogurt         |                                       |
-| Kk       | kah                  | king               | Kino          | theater        |                                       |
+| Kk       | kah                  | king               | Kino          | cinema         |                                       |
 | Ll       | el                   | love               | Liebe         | love           |                                       |
 | Mm       | em                   | man                | Mann          | man            |                                       |
 | Nn       | en                   | night              | Nacht         | night          |                                       |
@@ -36,66 +36,106 @@ There are 30 letters in German:
 | Xx       | iks                  | xylophone          | Xylophon      | xylophone      |                                       |
 | Yy       | ypsilon              | yoga               | Yoga          | yoga           |                                       |
 | Zz       | tset                 | bits               | Zoo           | zoo            |                                       |
-| ä        | eeh, A-Umlaut        | melon, age         |               |                |                                       |
-| ö        | oeh, O-Umlaut        | flirt, girl        |               |                |                                       |
-| ü        | ueh, U-Umlaut        | -                  |               |                |                                       |
+| Ää       | eeh, A-Umlaut        | melon, age         |               |                |                                       |
+| Öö       | oeh, O-Umlaut        | flirt, girl        |               |                |                                       |
+| Üü       | ueh, U-Umlaut        | -                  |               |                |                                       |
 | ß        | ess-tset, scharfes S | kiss               |               |                | cannot use at the beginning of a word |
 
 If you want to know more details, please check [this link](https://www.youtube.com/watch?v=wpBPaDI5IgI).
 
 ## Diphthongs & Consonants
 
-### Diphthongs
+### Diphthongs(double vowels)
 
-|       |      | Example  |
-| ----- | ---- | -------- |
-| ai/ei | eye  |          |
-| au    | ow   |          |
-| eu/äu | oy   |          |
-| ie    | eeh  | Sie(you) |
+|       | Pronounciation: German | Pronounciation: English | Example: German(English) |
+| ----- | ---------------------- | ----------------------- | ------------------------ |
+| ai/ei |                        | eye                     | Mai(May), Ei(egg)        |
+| au    | ow                     |                         | Auge(eye)                |
+| eu/äu | oy                     |                         | Europa(Europe)           |
+| ie    | eeh                    |                         | Sie(you)                 |
 
-### Consonants
+### Grouped Consonants
 
-|       |           | Example                              |
-| ----- | --------- | ------------------------------------ |
-| ck    | k         |                                      |
-| ch    | huge      | Ich(I)                               |
-|       | loch      |                                      |
-|       | k         | ckarckter                            |
-| pf    | puff      | Pfred(horse)                         |
-| qu    | kv        | Quelle(source)                       |
-| sch   | sh, sheep | Schule(school)                       |
-| sp/st | shp/sht   | Sprechen(to speak), stehen(to stand) |
-| tsch  | ch        | deutsch(German), tschüss(bye)        |
-| th    | t         | Theater                              |
+|       | Pronounciation: German | Pronounciation: English | Example: German(English)             |
+| ----- | ---------------------- | ----------------------- | ------------------------------------ |
+| ck    |                        | k                       | Zucker(sugar)                        |
+| ch    |                        | huge                    | Ich(I)                               |
+|       | loch                   |                         | Buch(book)                           |
+|       |                        | k                       | Charakter(character)                 |
+| pf    | puff                   |                         | Pfred(horse)                         |
+| qu    | kv                     |                         | Quelle(source)                       |
+| sch   | sh                     | sheep                   | Schule(school)                       |
+| sp/st | shp/sht                |                         | sprechen(to speak), stehen(to stand) |
+| tsch  |                        | ch                      | deutsch(German), tschüss(bye)        |
+| th    | t                      |                         | Theater(theater)                     |
 
-## n.
+## Personal Pronouns I(Nominative)
 
-|               | Singular | Plurals   | Example |
-| ------------- | -------- | --------- | ------- |
-| First person  | ich(I)   | wir(we)   |         |
-| Second person | du(you)  | ihr(you)  |         |
-|               | Sie(you) |           |         |
-| Third person  | er(he)   | sie(they) |         |
-|               | sie(she) |           |         |
-|               | es(it)   |           |         |
+|               | Singular: German(English) | Plural: German(English) |
+| ------------- | ------------------------- | ----------------------- |
+| First person  | ich(I)                    | wir(we)                 |
+| Second person | du(you)                   | ihr(you)                |
+|               | Sie(you)                  |                         |
+| Third person  | er(he)                    | sie(they)               |
+|               | sie(she)                  |                         |
+|               | es(it)                    |                         |
 
- ## the
+## Personal Pronouns II(Dative)
 
-| German | Singular              | Plurals            |
-| ------ | --------------------- | ------------------ |
-| der    | der Mann(the man)     | die Männer(men)    |
-| die    | die Frau(the woman)   | die Frauen(women)  |
-| das    | das Mädchen(the girl) | die Mädchen(girls) |
+|               | German | English     |
+| ------------- | ------ | ----------- |
+| First person  | mir    | me          |
+| Second person | dir    | you         |
+|               | Ihnen  | you(formal) |
+| Third person  | ihm    | him         |
+|               | ihr    | her         |
+|               | ihm    | it          |
 
-## a or an
+|               | German | English     |
+| ------------- | ------ | ----------- |
+| First person  | uns    | us          |
+| Second person | euch   | you         |
+|               | Ihnen  | you(formal) |
+| Third person  | ihnen  | them        |
 
-| German | English | Example   |
-| ------ | ------- | --------- |
-| ein    | a       | ein Mann  |
-| eine   | an      | eine Frau |
+ ## Definite Articles: the
 
-### Numbers
+| German            | Singular: German(English) | Plural: German(English) |
+| ----------------- | ------------------------- | ----------------------- |
+| der(Masculine(m)) | der Mann(the man)         | die Männer(men)         |
+| die(Feminine(f))  | die Frau(the woman)       | die Frauen(women)       |
+| das(Neuter(n))    | das Mädchen(the girl)     | die Mädchen(girls)      |
+
+## Indifinite Articles: a or an
+
+| German        | Example: German(English) |
+| ------------- | ------------------------ |
+| ein(a or an)  | ein Mann(a man)          |
+| eine(a or an) | eine Frau(a woman)       |
+| ein(a or an)  | ein Mädchen(a girl)      |
+
+## Greetings
+
+| German                                        | English                   |
+| --------------------------------------------- | ------------------------- |
+| Guten Morgen(Masculine)                       | Good morning              |
+| Guten Tag(Masculine)                          | Hello/Good day            |
+| Guten Abend(Masculine)                        | Good evening              |
+| Gute Nacht(Feminine)                          | Good night                |
+| Auf Wiedersehen(Neuter)/Tschüss               | Good bye                  |
+| Bis später                                    | See you later             |
+| Bis bald                                      | See you soon              |
+| Bis morgen                                    | See you tomorrow          |
+| Danke, Danke schön, Danke sehr, Vielen Dank   | Thank you, Thanks a lot   |
+| Bitte schön                                   | You're welcome            |
+| Bitte                                         | Please                    |
+| Es tut mir leid                               | I'm sorry                 |
+| Entschuldigung                                | Excuse me(begging pardon) |
+| Entschuldigung Sie bitte?                     | Excuse me, please         |
+| Wie bitte?                                    | Excuse me?(say again)     |
+| Sprechen Sie Englisch?(Sprichst du Englisch?) | Do you speak English?     |
+
+## Numbers
 
 | German                      | English                |
 | --------------------------- | ---------------------- |
@@ -122,65 +162,38 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | Eintausendfünfhundert       | 1500(1\*1000+5\*100)   |
 | Zehntausend                 | 10000(10\*1000)        |
 
-### Greetings
+## Introduction
 
-| German                                        | English                   |
-| --------------------------------------------- | ------------------------- |
-| Guten Morgen                                  | Good morning              |
-| Guten Tag                                     | Hello/Good day            |
-| Guten Abend                                   | Good evening              |
-| Guten Nacht                                   | Good night                |
-| Auf Wiedersehen/Tschüss                       | Good bye                  |
-| Bis später                                    | See you later             |
-| Bis bald                                      | See you soon              |
-| Bis Morgen                                    | See you tomorrow          |
-| Danke(schön/sehr), Vielen Dank                | Thank you, Thanks a lot   |
-| Bitte schön                                   | You're welcome            |
-| Bitte                                         | Please                    |
-| Es tut mir leid                               | I'm sorry                 |
-| Entschuldigung                                | Excuse me(begging pardon) |
-| Entschuldigung Sie bitte?                     | Excuse me, please         |
-| Wir bitte?                                    | Excuse me?                |
-| Sprechen Sie Englisch?(Sprichst du Englisch?) | Do you speak English?     |
+- to be called = heißen
 
- ### Introduction
+|               | German sg.(pl.)             | English sg.(pl.)                 |
+| ------------- | --------------------------- | -------------------------------- |
+| First person  | ich heiße(wir heißen)       | I am called(we are called)       |
+| Second person | du heißt(ihr heißt)         | you are called(you are called)   |
+| Third person  | er/sie/es heißt(sie heißen) | he/she/it is called(they called) |
 
-- heißen
+- to be = sein
 
-|               | heißen(German) sg./pl. | to be called(English) sg./pl. |
-| ------------- | ---------------------- | ----------------------------- |
-| First person  | ich heiße              | I am called                   |
-|               | wir heißen             | we are called                 |
-| Second person | du heißt               | you are called                |
-|               | ihr heißt              | you are called                |
-| Third person  | er/sie/es heißt        | he/she/it is called           |
-|               | si heißen              | they called                   |
+|               | German sg.(pl.)         | English sg.(pl.)       |
+| ------------- | ----------------------- | ---------------------- |
+| First person  | ich bin(wir sind)       | I am(we are)           |
+| Second person | du bist(ihr seid)       | you are(you are)       |
+| Third person  | er/sie/es ist(sie sind) | he/she/it is(they are) |
 
-- sein
-
-|               | sein(German) sg./pl. | to be(English) sg./pl. |
-| ------------- | -------------------- | ---------------------- |
-| First person  | ich bin              | I am                   |
-|               | wir sind             | we are                 |
-| Second person | du bist              | you are                |
-|               | ihr seid             | you are                |
-| Third person  | er/sie/es ist        | he/she/it is           |
-|               | sie sind             | they are               |
-
-- introduction
+- Introduction yourself
 
 | English                   | German                                                     |
 | ------------------------- | ---------------------------------------------------------- |
-| Hello, my name is ...     | Hallo, mein Name ist ...                                   |
+| Hello, my name is ...     | Guten Tag, ich heiße ...                                   |
+|                           | Guten Tag, mein Name ist ...                               |
 |                           | Guten Tag, ich bin ...                                     |
-|                           | Guten Tag, ich heiße ...                                   |
 | What's your name?         | Wie heißen Sie?                                            |
 |                           | Wie heißt du?                                              |
 | Nice to meet you.         | Es freut mich Sie kennezulernen/Schön dich kennenzulernen. |
 | The pleasure is all mine. | Ganz meinerseits.                                          |
 | Likewise/Same here.       | Gleichfalls.                                               |
 
-### How Are You?
+- How are you and answer
 
 | English                    | German                                 |
 | -------------------------- | -------------------------------------- |
@@ -192,49 +205,32 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | I feel very good.          | Mir geht es sehr gut.                  |
 | I'm ok.                    | Es geht.                               |
 | I don't feel well.         | Mir geht es nicht so gut.              |
+| yes                        | ja                                     |
+| no                         | nein                                   |
+| maybe                      | vielleicht                             |
 
-|               | German | English |
-| ------------- | ------ | ------- |
-| First person  | mir    | me      |
-| Second person | dir    | you     |
-|               | Ihnen  |         |
-| Third person  | ihm    | him     |
-|               | ihr    | her     |
-|               | ihm    | it      |
 
-|               | German | English |
-| ------------- | ------ | ------- |
-| First person  | uns    | us      |
-| Second person | euch   | you     |
-|               | Ihnen  |         |
-| Third person  | ihnen  | them    |
 
-### Answer
-
-| English | German     |
-| ------- | ---------- |
-| yes     | ja         |
-| no      | nein       |
-| maybe   | vielleicht |
-
-Dialog:
+- Dialog
 
 Anna: Hallo David! Wie geht's?
 
-David: Hallo Anna, wie geht es sehr gut. Und dir?
+David: Hallo Anna, mir geht es sehr gut. Und dir?
 
 Anna: Danke, mir geht es auch gut.
 
-### Where Are You From?
 
-| English             | German                     |
-| ------------------- | -------------------------- |
-| Where are you from? | Wo kommen Sie her?         |
-|                     | Wo kommst du her?          |
-| I am from ...       | Ich bin aus...             |
-|                     | Ich kommen aus Deutschland |
-| to come             | kommen                     |
-| to come from        | herkommen                  |
+
+- Where are you from?
+
+| English             | German                    |
+| ------------------- | ------------------------- |
+| Where are you from? | Wo kommen Sie her?        |
+|                     | Wo kommst du her?         |
+| I am from ...       | Ich bin aus...            |
+|                     | Ich komme aus Deutschland |
+| to come             | kommen                    |
+| to come from        | herkommen                 |
 
 |               | English         | German          |
 | ------------- | --------------- | --------------- |
@@ -245,54 +241,54 @@ Anna: Danke, mir geht es auch gut.
 | Third person  | he/she/it comes | er/sie/es kommt |
 |               |                 | sie kommen      |
 
-### Country
+## Country(Land(n)/die Länder)
 
-| Country(English) | Land/Die Länder(German) |
-| ---------------- | ----------------------- |
-| USA              | Amerika                 |
-| Canada           | Kanada                  |
-| England          | England                 |
-| France           | Frankreich              |
-| Italy            | Italien                 |
-| Spain            | Spanien                 |
-| Portugal         | Portugal                |
-| Austria          | Österreich              |
-| Switzerland      | Schweiz                 |
-| Netherlands      | Niederlande/Holland     |
-| Sweden           | Schweden                |
-| Finland          | Finnland                |
-| Norway           | Norwegen                |
-| Czech Republik   | Tschechien              |
-| Poland           | Polen                   |
-| Russia           | Russland                |
-| India            | Indien                  |
-| China            | China                   |
-| Japan            | Japan                   |
-| Australia        | Australien              |
-| New Zealand      | Neuseeland              |
+| English        | German              |
+| -------------- | ------------------- |
+| USA            | Amerika             |
+| Canada         | Kanada              |
+| England        | England             |
+| France         | Frankreich          |
+| Italy          | Italien             |
+| Spain          | Spanien             |
+| Portugal       | Portugal            |
+| Austria        | Österreich          |
+| Switzerland    | Schweiz             |
+| Netherlands    | Niederlande/Holland |
+| Sweden         | Schweden            |
+| Finland        | Finnland            |
+| Norway         | Norwegen            |
+| Czech Republik | Tschechien          |
+| Poland         | Polen               |
+| Russia         | Russland            |
+| India          | Indien              |
+| China          | China               |
+| Japan          | Japan               |
+| Australia      | Australien          |
+| New Zealand    | Neuseeland          |
 
-### Transportation
+## Transportation
 
 | English               | German                |
 | --------------------- | --------------------- |
-| airport               | Flughafen             |
-| airplane              | Flugzeug              |
-| train station         | Bahnhof               |
-| train                 | Zug                   |
-| bus station           | Busbahnhof            |
-| bus                   | Bus                   |
-| bus stop              | Bushaltestelle        |
-| car                   | Auto                  |
-| car park              | Parkplatz             |
-| bicycle               | Fahrrad               |
-| bicycle rack          | Fahrradständer        |
-| boat                  | Boot                  |
-| pier                  | Anlegesteller         |
-| subway                | U-Bahn                |
+| airport               | Flughafen(m)          |
+| airplane              | Flugzeug(n)           |
+| train station         | Bahnhof(m)            |
+| train                 | Zug(m)                |
+| bus station           | Busbahnhof(m)         |
+| bus                   | Bus(m)                |
+| bus stop              | Bushaltestelle(f)     |
+| car                   | Auto(n)               |
+| car park              | Parkplatz(m)          |
+| bicycle               | Fahrrad(n)            |
+| bicycle rack          | Fahrradständer(m)     |
+| boat                  | Boot(n)               |
+| pier                  | Anlegesteller(f)      |
+| subway                | U-Bahn(f)             |
 |                       | Untergrundbahn        |
-| skystrain             | S-Bahn                |
+| skystrain             | S-Bahn(f)             |
 |                       | Stadtschnellbahn      |
-| tram                  | Straßenbahn           |
+| tram                  | Straßenbahn(f)        |
 | Where is the airport? | Wo ist der Flughafen? |
 
 
