@@ -291,6 +291,20 @@ Anna: Danke, mir geht es auch gut.
 | tram                  | Straßenbahn(f)        |
 | Where is the airport? | Wo ist der Flughafen? |
 
+## Travel Arragements
+
+| English                           | German                            |
+| --------------------------------- | --------------------------------- |
+| I would like to buy a ticket.     | Ich möchte eine Fahrkarte kaufen. |
+| ticket                            | Fahrkarte(f)                      |
+| plane ticket                      | Flugticket(n)                     |
+| How much does the ticket cost?    | Wie viel kostet die Fahrkarte?    |
+|                                   | Wie viel kostet das ticket?       |
+| Is there a discount for students? | Gibt es eine Studentermäßigung?   |
+|                                   |                                   |
+|                                   |                                   |
+|                                   |                                   |
+
 
 
 ## Credit
