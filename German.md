@@ -4,7 +4,7 @@
 
 There are 30 letters in German:
 
-`   Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz ä ö ü ß   ` 
+`   Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz Ää Öö Üü ß   ` 
 
 ## Pronunciation
 
@@ -182,16 +182,17 @@ If you want to know more details, please check [this link](https://www.youtube.c
 
 - Introduction yourself
 
-| English                   | German                                                     |
-| ------------------------- | ---------------------------------------------------------- |
-| Hello, my name is ...     | Guten Tag, ich heiße ...                                   |
-|                           | Guten Tag, mein Name ist ...                               |
-|                           | Guten Tag, ich bin ...                                     |
-| What's your name?         | Wie heißen Sie?                                            |
-|                           | Wie heißt du?                                              |
-| Nice to meet you.         | Es freut mich Sie kennezulernen/Schön dich kennenzulernen. |
-| The pleasure is all mine. | Ganz meinerseits.                                          |
-| Likewise/Same here.       | Gleichfalls.                                               |
+| English                   | German                           |
+| ------------------------- | -------------------------------- |
+| Hello, my name is ...     | Guten Tag, ich heiße ...         |
+|                           | Guten Tag, mein Name ist ...     |
+|                           | Guten Tag, ich bin ...           |
+| What's your name?         | Wie heißen Sie?                  |
+|                           | Wie heißt du?                    |
+| Nice to meet you.         | Es freut mich Sie kennezulernen. |
+|                           | Schön dich kennenzulernen.       |
+| The pleasure is all mine. | Ganz meinerseits.                |
+| Likewise/Same here.       | Gleichfalls.                     |
 
 - How are you and answer
 
@@ -293,17 +294,36 @@ Anna: Danke, mir geht es auch gut.
 
 ## Travel Arragements
 
-| English                           | German                            |
-| --------------------------------- | --------------------------------- |
-| I would like to buy a ticket.     | Ich möchte eine Fahrkarte kaufen. |
-| ticket                            | Fahrkarte(f)                      |
-| plane ticket                      | Flugticket(n)                     |
-| How much does the ticket cost?    | Wie viel kostet die Fahrkarte?    |
-|                                   | Wie viel kostet das ticket?       |
-| Is there a discount for students? | Gibt es eine Studentermäßigung?   |
-|                                   |                                   |
-|                                   |                                   |
-|                                   |                                   |
+| English                           | German                                          |
+| --------------------------------- | ----------------------------------------------- |
+| I would like to buy a ticket.     | Ich möchte eine Fahrkarte kaufen.               |
+| ticket                            | Fahrkarte(f)                                    |
+| plane ticket                      | Flugticket(n)                                   |
+| How much does the ticket cost?    | Wie viel kostet die Fahrkarte?                  |
+|                                   | Wie viel kostet das ticket?                     |
+| Is there a discount for students? | Gibt es eine Studentermäßigung?                 |
+| Where can I get a taxi?           | Wo bekomme ich ein Taxi(n)?                     |
+| Can you drive me to this address? | Können Sie mich bitte zu dieser Adresse fahren? |
+| The city center, please.          | Zum Stadtzentrum(n), bitte.                     |
+| The airport, please.              | Zum Flughafen, bitte.                           |
+| left                              | links                                           |
+| straight                          | geradeaus                                       |
+| right                             | rechts                                          |
+| To the left/right here.           | Hier links/rechts abbiegen.                     |
+|                                   | Hier links/rechts, bitte.                       |
+| Please, go straight.              | Geradeaus, bitte.                               |
+| It's here.                        | Hier ist es.                                    |
+| stop                              | Stop.                                           |
+
+## Personal Pronouns III(accusative)
+
+|               | sg.(German) | pl.(English) | pl.(German) | pl.(English) |
+| ------------- | ----------- | ------------ | ----------- | ------------ |
+| First person  | mich        | me/myself    | uns         | us           |
+| Second person | dich        | you/youself  | euch        | you          |
+| Third person  | ihn         | him          | sie         | them         |
+|               | ihr         | her          | sie         | them         |
+|               | es          | it           | sie         | them         |
 
 
 
