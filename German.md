@@ -325,6 +325,28 @@ Anna: Danke, mir geht es auch gut.
 |               | ihr         | her          | sie         | them         |
 |               | es          | it           | sie         | them         |
 
+## In the City
+
+| English              | German               |
+| -------------------- | -------------------- |
+| hotel                | Hotel(n)             |
+| restaurant           | Restaurant(n)        |
+| bar                  | Bar/Kneipe(f)        |
+| park                 | Park(m)              |
+| playground           | Spielplatz(m)        |
+| cinema               | Kino(n)              |
+| public swimming pool | Schwimmbad(n)        |
+| mall                 | Einkaufszentrum(n)   |
+| supermarket          | Supermarkt(m)        |
+| pharmacy             | Apotheke(f)          |
+| bookstore            | Buchladen(m)         |
+| barkery              | Bäckerei(f)          |
+| cafe                 | Cafe(n)              |
+| hospital             | Krankenhaus(n)       |
+| Police station       | Polizeiwache(f)      |
+| fire station         | Feuerwehrwache(f)    |
+| Where is the bakery? | Wo ist die Bäckerei? |
+
 
 
 ## Credit
