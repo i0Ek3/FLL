@@ -347,6 +347,32 @@ Anna: Danke, mir geht es auch gut.
 | fire station         | Feuerwehrwache(f)    |
 | Where is the bakery? | Wo ist die Bäckerei? |
 
+## Days of the Week
+
+| English                             | German                           |
+| ----------------------------------- | -------------------------------- |
+| Monday                              | Montag(m)                        |
+| Tuesday                             | Dienstag(m)                      |
+| Wednesday                           | Mittwoch(m)                      |
+| Thursday                            | Donnerstag(m)                    |
+| Friday                              | Freitag(m)                       |
+| Saturday                            | Samstag(m)                       |
+| Sunday                              | Sonntag(m)                       |
+| Day(s)                              | Tag(m)/Tage                      |
+| Week(s)                             | Woche(f)/Wochen                  |
+| Month(s)                            | Monat(m)/Monate                  |
+| Year(s)                             | Jahr(n)/Jahre                    |
+| today                               | heute                            |
+| tomorrow                            | morgen                           |
+| tonight                             | heute Abend                      |
+| yesterday                           | gestern                          |
+| last night                          | gestern Abend                    |
+| daily                               | täglich                          |
+| weekly                              | wöchentlich                      |
+| monthly                             | monatlich                        |
+| yearly                              | jährlich                         |
+| On Mondays, Tuesdays, Wednesdays... | montags, dienstags, mittwochs... |
+
 
 
 ## Credit
