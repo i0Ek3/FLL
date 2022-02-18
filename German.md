@@ -1,3 +1,5 @@
+
+
 # German
 
 ## Letters
@@ -194,7 +196,7 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | The pleasure is all mine. | Ganz meinerseits.                |
 | Likewise/Same here.       | Gleichfalls.                     |
 
-- How are you and answer
+- How are you
 
 | English                    | German                                 |
 | -------------------------- | -------------------------------------- |
@@ -206,21 +208,22 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | I feel very good.          | Mir geht es sehr gut.                  |
 | I'm ok.                    | Es geht.                               |
 | I don't feel well.         | Mir geht es nicht so gut.              |
-| yes                        | ja                                     |
-| no                         | nein                                   |
-| maybe                      | vielleicht                             |
 
+- Answer
 
+| English | German     |
+| ------- | ---------- |
+| yes     | ja         |
+| no      | nein       |
+| maybe   | vielleicht |
 
 - Dialog
 
-Anna: Hallo David! Wie geht's?
-
-David: Hallo Anna, mir geht es sehr gut. Und dir?
-
-Anna: Danke, mir geht es auch gut.
-
-
+| Anna                         | David                                      |
+| ---------------------------- | ------------------------------------------ |
+| Hallo David! Wie geht's?     |                                            |
+|                              | Hallo Anna, mir geht es sehr gut. Und dir? |
+| Danke, mir geht es auch gut. |                                            |
 
 - Where are you from?
 
@@ -372,6 +375,37 @@ Anna: Danke, mir geht es auch gut.
 | monthly                             | monatlich                        |
 | yearly                              | jährlich                         |
 | On Mondays, Tuesdays, Wednesdays... | montags, dienstags, mittwochs... |
+
+## Months of the Year
+
+| English                | German                      |
+| ---------------------- | --------------------------- |
+| January                | Januar                      |
+| February               | Februar                     |
+| March                  | März                        |
+| April                  | April                       |
+| May                    | Mai                         |
+| June                   | Juni                        |
+| July                   | Juli                        |
+| August                 | August                      |
+| September              | September                   |
+| October                | Oktober                     |
+| November               | November                    |
+| December               | Dezember                    |
+| When is your Birthday? | Wann hast du Geburtstag(m)? |
+
+## to have(haben)
+
+|          | English                 | German                       |
+| -------- | ----------------------- | ---------------------------- |
+| Singular | I have                  | ich habe                     |
+|          | you have                | du hast                      |
+|          | he/she/it has           | er/sie/es hat                |
+| Plural   | we have                 | wir haben                    |
+|          | you have                | ihr habt                     |
+|          | they have               | sie haben                    |
+| Example  | I am hungry.            | ich habe Hunger.             |
+|          | My birthday is in July. | Mein Geburtstag ist im Juli. |
 
 
 
