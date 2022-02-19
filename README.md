@@ -12,6 +12,7 @@ In addition, the project is also used to share my self-study experience and reco
 * [Learning Status](#learning-status)
 * [Learning Skills](#learnig-skills)
 * [Languages](#Languages)
+    * [English](https://github.com/i0Ek3/FLL/blob/master/English.md)
     * [Mongolian](https://github.com/i0Ek3/FLL/blob/master/Mongolian.md)
     * Sanskrit
     * [Russian](https://github.com/i0Ek3/FLL/blob/master/Russian.md) 
