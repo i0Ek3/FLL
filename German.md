@@ -404,8 +404,36 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | Plural   | we have                 | wir haben                    |
 |          | you have                | ihr habt                     |
 |          | they have               | sie haben                    |
-| Example  | I am hungry.            | ich habe Hunger.             |
+| Example  | I am hungry.            | Ich habe Hunger.             |
 |          | My birthday is in July. | Mein Geburtstag ist im Juli. |
+
+## Introducing your family and friends 
+
+| English                          | German                          |      |
+| -------------------------------- | ------------------------------- | ---- |
+| This is ...                      | Das ist ...                     |      |
+| This is my ...                   | Das ist mein/meine ...          |      |
+| my                               | mein                            |      |
+| your                             | dein                            |      |
+| his                              | sein                            |      |
+| her                              | ihr                             |      |
+| its                              | sein                            |      |
+| our                              | unser                           |      |
+| your                             | euer/Ihr                        |      |
+| their                            | ihr                             |      |
+| male friend                      | Freund(m)                       |      |
+| female friend                    | Freundin(f)                     |      |
+| friend/buddy                     | der Kumpel                      |      |
+| This is my friend/buddy.         | Das ist mein Kumpel.            |      |
+| This is my boyfriend/girlfirend. | Das ist mein Freund/Freundin.   |      |
+| These are my friends.            | Das sind meine Freunde.         |      |
+| Nice to meet you.                | Nett dich kennenzulernen.       |      |
+| I'm pleased.                     | Freut mich.                     |      |
+| Me too.                          | Mich auch.                      |      |
+| May I introduce you to ...       | Darf ich Ihnen ... vorstellen?  |      |
+| I'm pleased to meet you.         | Freut mich, Sie kennenzulernen. |      |
+| Likewise.                        | Meinerseits.                    |      |
+|                                  | Ganz meinerseits.               |      |
 
 
 
