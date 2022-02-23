@@ -409,31 +409,74 @@ If you want to know more details, please check [this link](https://www.youtube.c
 
 ## Introducing your family and friends 
 
-| English                          | German                          |      |
-| -------------------------------- | ------------------------------- | ---- |
-| This is ...                      | Das ist ...                     |      |
-| This is my ...                   | Das ist mein/meine ...          |      |
-| my                               | mein                            |      |
-| your                             | dein                            |      |
-| his                              | sein                            |      |
-| her                              | ihr                             |      |
-| its                              | sein                            |      |
-| our                              | unser                           |      |
-| your                             | euer/Ihr                        |      |
-| their                            | ihr                             |      |
-| male friend                      | Freund(m)                       |      |
-| female friend                    | Freundin(f)                     |      |
-| friend/buddy                     | der Kumpel                      |      |
-| This is my friend/buddy.         | Das ist mein Kumpel.            |      |
-| This is my boyfriend/girlfirend. | Das ist mein Freund/Freundin.   |      |
-| These are my friends.            | Das sind meine Freunde.         |      |
-| Nice to meet you.                | Nett dich kennenzulernen.       |      |
-| I'm pleased.                     | Freut mich.                     |      |
-| Me too.                          | Mich auch.                      |      |
-| May I introduce you to ...       | Darf ich Ihnen ... vorstellen?  |      |
-| I'm pleased to meet you.         | Freut mich, Sie kennenzulernen. |      |
-| Likewise.                        | Meinerseits.                    |      |
-|                                  | Ganz meinerseits.               |      |
+| English                          | German                          |
+| -------------------------------- | ------------------------------- |
+| This is ...                      | Das ist ...                     |
+| This is my ...                   | Das ist mein/meine ...          |
+| my                               | mein                            |
+| your                             | dein                            |
+| his                              | sein                            |
+| her                              | ihr                             |
+| its                              | sein                            |
+| our                              | unser                           |
+| your                             | euer/Ihr                        |
+| their                            | ihr                             |
+| male friend                      | Freund(m)                       |
+| female friend                    | Freundin(f)                     |
+| friend/buddy                     | der Kumpel                      |
+| This is my friend/buddy.         | Das ist mein Kumpel.            |
+| This is my boyfriend/girlfirend. | Das ist mein Freund/Freundin.   |
+| These are my friends.            | Das sind meine Freunde.         |
+| Nice to meet you.                | Nett dich kennenzulernen.       |
+| I'm pleased.                     | Freut mich.                     |
+| Me too.                          | Mich auch.                      |
+| May I introduce you to ...       | Darf ich Ihnen ... vorstellen?  |
+| I'm pleased to meet you.         | Freut mich, Sie kennenzulernen. |
+| Likewise.                        | Meinerseits.                    |
+|                                  | Ganz meinerseits.               |
+
+## Family
+
+| English                  | German                        |
+| ------------------------ | ----------------------------- |
+| Family                   | die Familie                   |
+| parents                  | Eltern(f)                     |
+| grandparents             | Großeltern(f)                 |
+| children                 | Kinder(f)                     |
+| sister                   | die Schwester/Schwestern      |
+| brother                  | der Bruder/Brüder             |
+| mother(s)                | die Mutter/Mütter             |
+| father(s)                | der Vater/Väter               |
+| daughter(s)              | die Tochter/Töchter           |
+| son(s)                   | der Sohn/Söhne                |
+| grandma                  | die Großvater/Oma             |
+| grandpa                  | der Großmutter/Opa            |
+| husband                  | der Ehe(mann)                 |
+| wife                     | die Ehe(frau)                 |
+| girl(s)                  | das Mädchen, die Mädchen      |
+| boy(s)                   | der Junge, die Jungen         |
+| siblings                 | die Geschwister               |
+| aunt(s)                  | die Tante/Tanten              |
+| uncle(s)                 | der Onkel, die Onkel          |
+| male cousin              | der Cousin                    |
+| famale cousin            | die Cousine                   |
+| twins                    | die Zwillige                  |
+| Mrs. Huber               | Frau Huber                    |
+| Mr. Huber                | Herr Huber                    |
+| This is my husband.      | Das ist mein Mann.            |
+| We are married.          | Wir sind verheiratet.         |
+| to marry                 | heiraten                      |
+| My parents are divorced. | Meine Eltern sind geschieden. |
+| brother in law           | mein Schwager                 |
+| sister in law            | meine Schwägerin              |
+| niece                    | meine Nichte(f)               |
+| nephew                   | mein Neffe(m)                 |
+| stepmother               | die Stiefmutter               |
+| stepfather               | der Stiefvater                |
+| half brother             | der Halbbruder                |
+| half sister              | die Halbschwester             |
+| godfather                | der Patenonkel                |
+| godmother                | die Patentante                |
 
 
 
