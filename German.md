@@ -449,8 +449,8 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | father(s)                | der Vater/Väter               |
 | daughter(s)              | die Tochter/Töchter           |
 | son(s)                   | der Sohn/Söhne                |
-| grandma                  | die Großvater/Oma             |
-| grandpa                  | der Großmutter/Opa            |
+| grandma                  | die Großmutter/Oma            |
+| grandpa                  | der Großvater/Opa             |
 | husband                  | der Ehe(mann)                 |
 | wife                     | die Ehe(frau)                 |
 | girl(s)                  | das Mädchen, die Mädchen      |
@@ -477,6 +477,19 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | half sister              | die Halbschwester             |
 | godfather                | der Patenonkel                |
 | godmother                | die Patentante                |
+
+## How old are you?
+
+| English                        | German                            |
+| ------------------------------ | --------------------------------- |
+| How old are you?               | Wie alt bist du?                  |
+| I'm 30 years old.              | Ich bin dreißig Jahre alt.        |
+| Do you have siblings?          | Hast du Geschwister?              |
+| Yes, I have two sisters.       | Ja, ich habe zwei Schwestern.     |
+| No, I don't have any siblings. | Nein, ich habe keine Geschwister. |
+| Yes, I have one brother.       | Ja, ich habe einen Bruder.        |
+| How old is your brother?       | Wie alt ist dein Bruder.          |
+| He is ten years old.           | Er ist zehn Jahre alt.            |
 
 
 
