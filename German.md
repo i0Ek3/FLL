@@ -491,6 +491,46 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | How old is your brother?       | Wie alt ist dein Bruder.          |
 | He is ten years old.           | Er ist zehn Jahre alt.            |
 
+## Where you live?
+
+### to live
+
+| English         | German          |
+| --------------- | --------------- |
+| I live          | ich wohne       |
+| you live        | du wohnst       |
+| he/she/it lives | er/sie/es wohnt |
+| we live         | wir wohnen      |
+| you live        | ihr wohnt       |
+| them live       | sie wohnen      |
+
+| English                                 | German                                                       |
+| --------------------------------------- | ------------------------------------------------------------ |
+| Where do you live?                      | Wo wohnen Sie?                                               |
+|                                         | Wo wohnst du?                                                |
+| I live in Hamburg/Germany.              | Ich wohne in Hamburg/Deutschland.                            |
+| far from ...                            | weit von ...                                                 |
+| not far from ...                        | nicht weit von ...                                           |
+| I live not far from the train station.  | Ich wohne nicht weit vom Bahnhof.                            |
+| near to ...                             | in der Nähe von ...                                          |
+| I live near to the center.              | Ich wohne in der Nähe vom Zentrum.                           |
+| Nationality                             | die Nationalität                                             |
+| Language                                | die Sprache                                                  |
+| I am German(male/female).               | Ich bin Deutscher/Deutsche.                                  |
+| French(male/female)                     | Franzose/Französin                                           |
+| American(male/female)                   | Amerikaner/Amerikanerin                                      |
+| English(male/female)                    | Engländer/Engländerin                                        |
+| Spanish(male/female)                    | Spanier/Spanierin                                            |
+| Italian(male/female)                    | Italiener/Italienerin                                        |
+| Australian(male/female)                 | Australier/Australierin                                      |
+| Which languages do you speak?           | Welche Sprachen sprechen Sie?                                |
+|                                         | Welche Sprachen sprichst du?                                 |
+| I speak German/English/Italian.         | Ich spreche Deutsch/Englilsch/Italienisch.                   |
+| I speak a little bit of French/Spanish. | Ich spreche ein bisschen Französisch/Spanisch.               |
+| Q: Hallo, wo wohnst du?                 | A: Ich wohne in Berlin, Deutschland.                         |
+| Q: Und du?                              | A: Ich wohne in London, England.                             |
+| Q: Wie viele Sprachen sprichst du?      | A: Ich spreche Deutsch, Englisch und ein bisschen Französisch. Und du? |
+
 
 
 ## Credit
