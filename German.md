@@ -1,5 +1,3 @@
-
-
 # German
 
 ## Letters
@@ -100,7 +98,7 @@ If you want to know more details, please check [this link](https://www.youtube.c
 |               | Ihnen  | you(formal) |
 | Third person  | ihnen  | them        |
 
- ## Definite Articles: the
+## Definite Articles: the
 
 | German            | Singular: German(English) | Plural: German(English) |
 | ----------------- | ------------------------- | ----------------------- |
@@ -407,7 +405,7 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | Example  | I am hungry.            | Ich habe Hunger.             |
 |          | My birthday is in July. | Mein Geburtstag ist im Juli. |
 
-## Introducing your family and friends 
+## Introducing your family and friends
 
 | English                          | German                          |
 | -------------------------------- | ------------------------------- |
@@ -504,32 +502,57 @@ If you want to know more details, please check [this link](https://www.youtube.c
 | you live        | ihr wohnt       |
 | them live       | sie wohnen      |
 
-| English                                 | German                                                       |
-| --------------------------------------- | ------------------------------------------------------------ |
-| Where do you live?                      | Wo wohnen Sie?                                               |
-|                                         | Wo wohnst du?                                                |
-| I live in Hamburg/Germany.              | Ich wohne in Hamburg/Deutschland.                            |
-| far from ...                            | weit von ...                                                 |
-| not far from ...                        | nicht weit von ...                                           |
-| I live not far from the train station.  | Ich wohne nicht weit vom Bahnhof.                            |
-| near to ...                             | in der Nähe von ...                                          |
-| I live near to the center.              | Ich wohne in der Nähe vom Zentrum.                           |
-| Nationality                             | die Nationalität                                             |
-| Language                                | die Sprache                                                  |
-| I am German(male/female).               | Ich bin Deutscher/Deutsche.                                  |
-| French(male/female)                     | Franzose/Französin                                           |
-| American(male/female)                   | Amerikaner/Amerikanerin                                      |
-| English(male/female)                    | Engländer/Engländerin                                        |
-| Spanish(male/female)                    | Spanier/Spanierin                                            |
-| Italian(male/female)                    | Italiener/Italienerin                                        |
-| Australian(male/female)                 | Australier/Australierin                                      |
-| Which languages do you speak?           | Welche Sprachen sprechen Sie?                                |
-|                                         | Welche Sprachen sprichst du?                                 |
-| I speak German/English/Italian.         | Ich spreche Deutsch/Englilsch/Italienisch.                   |
-| I speak a little bit of French/Spanish. | Ich spreche ein bisschen Französisch/Spanisch.               |
-| Q: Hallo, wo wohnst du?                 | A: Ich wohne in Berlin, Deutschland.                         |
-| Q: Und du?                              | A: Ich wohne in London, England.                             |
+| English                                 | German                                                                 |
+| --------------------------------------- | ---------------------------------------------------------------------- |
+| Where do you live?                      | Wo wohnen Sie?                                                         |
+|                                         | Wo wohnst du?                                                          |
+| I live in Hamburg/Germany.              | Ich wohne in Hamburg/Deutschland.                                      |
+| far from ...                            | weit von ...                                                           |
+| not far from ...                        | nicht weit von ...                                                     |
+| I live not far from the train station.  | Ich wohne nicht weit vom Bahnhof.                                      |
+| near to ...                             | in der Nähe von ...                                                    |
+| I live near to the center.              | Ich wohne in der Nähe vom Zentrum.                                     |
+| Nationality                             | die Nationalität                                                       |
+| Language                                | die Sprache                                                            |
+| I am German(male/female).               | Ich bin Deutscher/Deutsche.                                            |
+| French(male/female)                     | Franzose/Französin                                                     |
+| American(male/female)                   | Amerikaner/Amerikanerin                                                |
+| English(male/female)                    | Engländer/Engländerin                                                  |
+| Spanish(male/female)                    | Spanier/Spanierin                                                      |
+| Italian(male/female)                    | Italiener/Italienerin                                                  |
+| Australian(male/female)                 | Australier/Australierin                                                |
+| Which languages do you speak?           | Welche Sprachen sprechen Sie?                                          |
+|                                         | Welche Sprachen sprichst du?                                           |
+| I speak German/English/Italian.         | Ich spreche Deutsch/Englilsch/Italienisch.                             |
+| I speak a little bit of French/Spanish. | Ich spreche ein bisschen Französisch/Spanisch.                         |
+| Q: Hallo, wo wohnst du?                 | A: Ich wohne in Berlin, Deutschland.                                   |
+| Q: Und du?                              | A: Ich wohne in London, England.                                       |
 | Q: Wie viele Sprachen sprichst du?      | A: Ich spreche Deutsch, Englisch und ein bisschen Französisch. Und du? |
+
+## Common Adjectives
+
+| English                | German               |
+| ---------------------- | -------------------- |
+| beautiful              | schön                |
+| new                    | neu                  |
+| old                    | alt                  |
+| the new car            | der neue Wagen       |
+| the beautiful city     | die schöne Stadt     |
+| the old car            | das alte Auto        |
+| the new books          | die neuen Bücher     |
+| The car is old.        | Das Auto ist alt.    |
+| The city is beautiful. | Die Stadt ist schön. |
+| a new car              | ein neuer Wagen      |
+| a beautiful city       | eine schöne Stadt    |
+| an old car             | ein altes Auto       |
+| the red car            | der rote Wagen       |
+| the yellow book        | das gelbe Buch       |
+| the purple flower      | die violette Blume   |
+| a black eye            | ein blaues Auge      |
+| a silver coin          | eine silberne Münze  |
+| a grey scarf           | ein grauer Schal     |
+| the brown shoes        | die brauner Schuhe   |
+| the black sheep        | die schwarzen Schafe |
 
 
 
