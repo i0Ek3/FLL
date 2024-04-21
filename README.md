@@ -12,19 +12,6 @@ In addition, the project is also used to share my self-study experience and reco
 * [Learning Status](#learning-status)
 * [Learning Skills](#learnig-skills)
 * [Languages](#Languages)
-    * [English](https://github.com/i0Ek3/FLL/blob/master/English.md)
-    * [Mongolian](https://github.com/i0Ek3/FLL/blob/master/Mongolian.md)
-    * Sanskrit
-    * [Russian](https://github.com/i0Ek3/FLL/blob/master/Russian.md) 
-        * Letters
-        * Grammer
-    * Esperanto
-    * French
-    * Spanish
-    * Hebrew
-    * [Japanese](https://github.com/i0Ek3/FLL/blob/master/Japanese.md)
-    * Dutch
-    * [German](https://github.com/i0Ek3/FLL/blob/master/German.md)
 * [Credit](#Credit)
 
 
@@ -43,6 +30,7 @@ In addition, the project is also used to share my self-study experience and reco
 |8|Japanese|`-`| Easy |
 |9|Dutch|`-`| Middle |
 |10|German|`++`| Middle |
+|11|Turkish|`-`| Middle |
 
 
 ## Learning Skills
@@ -58,6 +46,19 @@ In addition, the project is also used to share my self-study experience and reco
 ## Languages
 
 Please check corresponding languages markdown file.
+
+* [English](https://github.com/i0Ek3/FLL/blob/master/English.md)
+* [Mongolian](https://github.com/i0Ek3/FLL/blob/master/Mongolian.md)
+* Sanskrit
+* [Russian](https://github.com/i0Ek3/FLL/blob/master/Russian.md) 
+* Esperanto
+* French
+* Spanish
+* Hebrew
+* [Japanese](https://github.com/i0Ek3/FLL/blob/master/Japanese.md)
+* Dutch
+* [German](https://github.com/i0Ek3/FLL/blob/master/German.md)
+* [Turkish](https://github.com/i0Ek3/FLL/blob/master/Turkish.md)
 
 
 ## Credit
